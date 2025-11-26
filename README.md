@@ -1,5 +1,3 @@
-# WDGASTERtim
-
 ## ⚠️ Disclaimer & Credits
 
 - All original music tracks and artwork from Undertale / Deltarune are © Toby Fox (and/or Materia Collective) and are used here only for non-commercial, fan‑made purposes.  
