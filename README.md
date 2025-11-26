@@ -10,7 +10,7 @@
 
 You can find the official source of the original game and soundtrack here: https://tobyfox.com/  
 
-## 🛠️ License for My Own Code
+## 🛠️ License
 
 MIT License  
 Copyright (c) 2025 DaranProd
