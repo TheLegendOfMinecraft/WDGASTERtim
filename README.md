@@ -8,7 +8,7 @@
 - I make no claim of ownership over the original assets used in this project.  
 - If required by copyright holders, I agree to remove or replace any copyrighted content upon request.  
 
-You can find the official source of the original game and soundtrack here: https://tobyfox.com/  
+You can find the official source of the original game and soundtrack here: https://toby.fangamer.com/, https://undertale.com/, https://deltarune.com/
 
 ## 🛠️ License
 
