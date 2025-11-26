@@ -12,7 +12,7 @@ You can find the official source of the original game and soundtrack here: https
 
 ## About
 
-This game is developed by Andrew Negara. One day, two best friends fell out and became the worst enemies. Previously, they shared a common goal: exploring dimensions and spaces, the very underbelly of reality. One of them remained, actively exploring and developing, while the other left, erasing the old passion for what they had done from his memory. Many years later, Artem returned to his old friend, having forgotten all the grievances, but his friend had completely gone mad and assumed the form of WDGASTERtim, deciding to kill him for old grievances.
+This game is developed by Andrian Negara. One day, two best friends fell out and became the worst enemies. Previously, they shared a common goal: exploring dimensions and spaces, the very underbelly of reality. One of them remained, actively exploring and developing, while the other left, erasing the old passion for what they had done from his memory. Many years later, Artem returned to his old friend, having forgotten all the grievances, but his friend had completely gone mad and assumed the form of WDGASTERtim, deciding to kill him for old grievances.
 But is that really true?
 
 Do you really think you're on the bright side?
